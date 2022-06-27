@@ -1,16 +1,30 @@
-# the_movie_app
+# The Movie
 
-A new Flutter project.
+### Autor
 
-## Getting Started
+ - Desenvolvedor: Alexandre Silva
+ - Email: alexandrebmx5@gmail.com
 
-This project is a starting point for a Flutter application.
+## Execução do projeto
 
-A few resources to get you started if this is your first Flutter project:
+#### git clone
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+git clone https://gitlab.com/alexandrebmx5/the-movie-app.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Install 
+
+```
+flutter pub get
+```
+
+#### Run
+
+```
+flutter run
+```
+
+#### Aplicativo para teste
+[Apk](app.apk)
+
