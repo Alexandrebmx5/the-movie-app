@@ -10,7 +10,7 @@
 #### git clone
 
 ```
-git clone https://gitlab.com/alexandrebmx5/the-movie-app.git
+git clone https://github.com/alexandrebmx5/the-movie-app.git
 ```
 
 #### Install 
@@ -26,5 +26,5 @@ flutter run
 ```
 
 #### Aplicativo para teste
-[Apk](app.apk)
+[Apk](assets/app.apk)
 
